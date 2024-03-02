@@ -7,7 +7,7 @@ This project aims to recognize hand signs in real-time using computer vision and
 2. Hand sign recognition using a Convolutional Neural Network (CNN) implemented with Keras and TensorFlow.
 
 ## Contributor
-- **Abhaash Kumar Bhiwaniya**
+- **Yash Tiwari**
 
 ## Requirements
 - Python 3.x
