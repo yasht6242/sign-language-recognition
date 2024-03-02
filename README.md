@@ -1,5 +1,5 @@
 # Sign Language Recognition with CNN
-![Sign Language Recognition](https://github.com/abhaashb0801/Sign-Language-Recognition-with-CNN/blob/main/sign_language_recognition.png)
+
 
 ## Overview
 This project aims to recognize hand signs in real-time using computer vision and deep learning techniques. It includes two main components: 
@@ -45,4 +45,4 @@ The dataset used to train the CNN model is not included in this repository. You 
 Certainly, here's the updated contribution section in the README:
 
 ## Contributor
-- **Abhaash Kumar Bhiwaniya**
+- **Yash Tiwari**
